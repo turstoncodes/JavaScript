@@ -1,0 +1,1 @@
+{"index.js":"// Create a shopping list in the variable myList\nvar myList = [\n    [\"Vegan Burgers\", 1],\n    [\"Future Life Protein Powder\", 2],\n    [\"Chilli Sauce\", 3],\n    [\"Peanuts & Raisins\", 4],\n    [\"3 Minute Noodles\", 5]\n];\n\n"}
